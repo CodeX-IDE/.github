@@ -18,7 +18,3 @@ CodeX IDE is an advanced code editor built on Visual Studio Code, enhanced with 
 CodeX IDE eliminates context switching by consolidating essential development tools into a single workspace. Our AI-native approach helps developers write, test, and deploy code more efficiently.
 
 ---
-
-**Resources**
-
-[Documentation](https://docs.codex.dev) · [Download](https://github.com/CodeX/codex-ide) · [Contributing](CONTRIBUTING.md)
