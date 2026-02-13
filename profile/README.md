@@ -1,12 +1,24 @@
-## Hi there 👋
+# CodeX
 
-<!--
+**Building AI-native development tools for modern software engineering.**
 
-**Here are some ideas to get you started:**
+## CodeX IDE
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+CodeX IDE is an advanced code editor built on Visual Studio Code, enhanced with integrated development tools and artificial intelligence capabilities.
+
+### Core Features
+
+- AI-assisted code completion and generation
+- Integrated web browser for real-time testing
+- Native Android and iOS emulators
+- Unified development environment
+
+### About
+
+CodeX IDE eliminates context switching by consolidating essential development tools into a single workspace. Our AI-native approach helps developers write, test, and deploy code more efficiently.
+
+---
+
+**Resources**
+
+[Documentation](https://docs.codex.dev) · [Download](https://github.com/CodeX/codex-ide) · [Contributing](CONTRIBUTING.md)
