@@ -1,3 +1,4 @@
+![Banner](./banner.jpg)
 # CodeX
 
 **Building AI-native development tools for modern software engineering.**
